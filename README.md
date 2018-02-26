@@ -1,2 +1,2 @@
-# biomakespace-document
-Documents for the biomakespace
+# biomakespace-documents
+Documents for a biomakespace
